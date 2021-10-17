@@ -1,4 +1,4 @@
-##Coding Exercises
+# Coding Exercises
 
 My projects while i learn C language.
 
