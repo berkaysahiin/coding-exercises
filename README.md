@@ -10,4 +10,4 @@ My projects while i learn C language.
   - It is a program that checks whether the given number is prime or not.
 
 - Exercise 2: convert-uppercase-2-lowcase.c
-  - It is program that converts lowercases to uppercases / uppercases to lower cases.  
+  - It is program that converts lowercases to uppercases and vice versa.
