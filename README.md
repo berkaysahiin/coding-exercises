@@ -9,4 +9,4 @@ My projects while i learn C language.
   - It is program that converts lowercases to uppercases and vice versa.
 
 - Exercise 3: mile-to-km.c
- -A converter that converts length in miles to length in kilometers  
+  - A converter that converts length in miles to length in kilometers  
