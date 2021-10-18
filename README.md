@@ -7,3 +7,6 @@ My projects while i learn C language.
 
 - Exercise 2: convert-uppercase-2-lowcase.c
   - It is program that converts lowercases to uppercases and vice versa.
+
+- Exercise 3: mile-to-km.c
+ -A converter that converts length in miles to length in kilometers  
