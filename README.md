@@ -20,3 +20,9 @@ Projects that i made while i am learning C language.
 
 - Exercise 4: triangler.c
   - It is a program that checks for the existence of the given triangle and tells the type of triangle.
+  
+- Exercise 5: averager.c
+  - It is a program that Calculates the average of the given numbers.
+
+ 
+
