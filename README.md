@@ -16,4 +16,7 @@ Projects that i made while i am learning C language.
   - It is program that converts lowercases to uppercases and vice versa.
 
 - Exercise 3: mile-to-km.c
-  - A converter that converts length in miles to length in kilometers  
+  - A converter that converts length in miles to length in kilometers.
+
+- Exercise 4: triangler.c
+  - It is a program that checks for the existence of the given triangle and tells the type of triangle.
