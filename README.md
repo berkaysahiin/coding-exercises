@@ -7,7 +7,7 @@
 
 # Coding Exercises
 
-My projects while i learn C language.
+Projects that i made while i am learning C language.
 
 - Exercise 1: prime-numbers.c
   - It is a program that checks whether the given number is prime or not.
