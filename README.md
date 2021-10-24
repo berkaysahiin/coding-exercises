@@ -13,7 +13,7 @@ Projects that i made while i am learning C language.
   - It is a program that checks whether the given number is prime or not.
 
 - Exercise 2: convert-uppercase-2-lowcase.c
-  - It is program that converts lowercases to uppercases and vice versa.
+  - It is a program that converts lowercases to uppercases and vice versa.
 
 - Exercise 3: mile-to-km.c
   - It is a program that converts length in miles to length in kilometers.
@@ -25,7 +25,10 @@ Projects that i made while i am learning C language.
   - It is a program that Calculates the average of the given numbers.
 
 - Exercise 6: bubble-sort.c
-  - It is a program  that sorts given numbers by using bubble-sort algorithm.
+  - It is a program  that sorts given numbers in ascending order by using the logic of bubble-sort algorithm.
+
+- Exercise 7: insertion-sort.c
+  - It is a program  that sorts given numbers in ascending order by using the logic of insertion-sort algorithm.
 
  
 
