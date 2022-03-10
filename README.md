@@ -32,7 +32,7 @@ Projects that i made while i am learning C language.
   
 - Exercise 8: alphabetical-order-bs.c
   - It is a program that sorts given words in ascending alphabetical order by using the logic of bubble-sort algorithm.  
-  - 
+  
 - Exercise 9: selection_sort.c
   - It is a program that sorts numbers in given array in ascending  order by using the logic of selection-sort algorithm.  
   
