@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="codingnerd.png" />
-</p>
-
-
-
 
 # Coding Exercises
 
